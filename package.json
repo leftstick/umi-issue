@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "redbox-react": "1.6.0",
-    "umi": "^2.7.0",
-    "umi-plugin-react": "^1.8.0"
+    "umi": "^2.8.6",
+    "umi-plugin-react": "^1.9.4"
   }
 }
