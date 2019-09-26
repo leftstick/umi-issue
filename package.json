@@ -4,7 +4,7 @@
   "description": "Scaffold for umi based project",
   "scripts": {
     "start": "umi dev",
-    "build": "umi build"
+    "build": "umi build --watch"
   },
   "dependencies": {
     "@ant-design/icons": "^2.1.0",
@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "redbox-react": "1.6.0",
-    "umi": "^2.8.6",
-    "umi-plugin-react": "^1.9.4"
+    "umi": "^2.9.6",
+    "umi-plugin-react": "^1.10.1"
   }
 }
